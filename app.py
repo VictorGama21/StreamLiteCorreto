@@ -17,7 +17,7 @@ st.markdown("""
 """)
 
 st.image(
-    "https://ibb.co/2Yj96vzz",
+    "https://i.ibb.co/6J4MZHKK/Capturar.jpg",
     caption="Exemplo de como gerar o relatório no sistema Quitandaria",
     use_container_width=True
 )
