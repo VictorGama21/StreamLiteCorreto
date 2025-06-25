@@ -16,8 +16,11 @@ st.markdown("""
    - 👉 [Clique aqui para  gerar os Relatorios Varejo-Facil .csv](https://quitandaria.varejofacil.com/app/#/vf?r=%2FrelatorioPreco%2Findex&b=Venda,Relat%C3%B3rios%20pre%C3%A7o,Listagem%20de%20pre%C3%A7os)
 """)
 
-st.image("Capturar.jpg", caption="Exemplo de como gerar o relatório no sistema Quitandaria", use_container_width=True)
-
+st.image(
+    "https://ibb.co/2Yj96vzz",
+    caption="Exemplo de como gerar o relatório no sistema Quitandaria",
+    use_container_width=True
+)
 st.markdown("""
 4. O app irá gerar um relatório com:
    - Diferenças de preços;
